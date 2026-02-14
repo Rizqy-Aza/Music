@@ -49,7 +49,7 @@ This project focuses on interactive sound exploration, colorful UI, and intuitiv
 
 2. **Clone the Repository**
    ```bash
-   git clone https://github.com/Rizqy-Aza/Music.git
+   git clone https://github.com/RizqyAzaria/Music.git
    ```
 
 3. **Open in Unity Hub**
