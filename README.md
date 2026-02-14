@@ -28,9 +28,11 @@ This project focuses on interactive sound exploration, colorful UI, and intuitiv
 ## 📱 App Preview
 
 <p align="center">
-  <img src="Assets_Mixed/main_app.png" width="240" style="margin: 0 10px;"/>
-  <img src="Assets_Mixed/piano.png" width="240" style="margin: 0 10px;"/>
-  <img src="Assets_Mixed/drum.png" width="240" style="margin: 0 10px;"/>
+  <img src="Assets/Assets_Mixed/main_app.png" width="240" style="margin: 0 10px;"/>
+  &nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp
+  <img src="Assets/Assets_Mixed/piano.png" width="240" style="margin: 0 10px;"/>
+  &nbsp;&nbsp;&nbsp &nbsp;&nbsp;&nbsp
+  <img src="Assets/Assets_Mixed/drum.png" width="240" style="margin: 0 10px;"/>
 </p>
 
 <p align="center">
